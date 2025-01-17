@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, intial-scale=1.0" />
+    <title>The Royal Palace Hotel</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <div id="main">
+        <div class="container">
+            <nav>
+                <img src="" alt="" class="logo">
+                <ul class="nav-list">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="/contact.html/contact.html">Contact</a></li>
+                    <li><button class="btn btn-secondary">202-505-3333</button></li>
+                </ul>
+
+            </nav>
+            <div class="main-content">
+                <h1 class="intro-heading">"The Royal Palace"</h1>
+                <h1 class="main-heading"></h1>
+                <p>
+                    Experience luxury and comfort in the heart of the city, where modern amenities meet warm hospitality
+                </p>
+                <button class="btn btn-primary">Book Now</button>
+            </div>
+        </div>
+    </div>
+    <section id="services">
+        <div class="container">
+            <div class="section-tittle">
+                <h1>Our Services</h1>
+                <div class="line"></div>
+            </div>
+            <div class="services">
+                <div class="service">
+                    <img src="/image-344x464 (1) copy.jpg" alt="">
+                    <h3>Food and beverage</h3>
+                    <p>
+                        At The Royal Palace, we offer a diverse and luxurious dining experience designed to tantalize your taste buds.
+                         Whether you’re enjoying a family meal or a casual drink, we cater to all your cravings..
+                    </p>
+                </div>
+                <div class="service">
+                    <img src="image-344x464 (1).jpg" alt="">
+                    <h3>Hospitality</h3>
+                    <p>
+                        At our hotel, hospitality is at the heart of everything we do. Our dedicated staff is committed
+                        to providing personalized service, ensuring every guest feels welcomed and valued from the
+                        moment they arrive.
+                    </p>
+                </div>
+                <div class="service">
+                    <img src="image-344x464 (2).jpg" alt="">
+                    <h3>Bar</h3>
+                    <p>
+                        Step into our elegant hotel bar, where a sophisticated ambiance meets expertly crafted cocktails
+                        and a curated selection of fine wines.
+                    </p>
+                </div>
+            </div>
+    </section>
+    <section id="testimonial">
+        <div class="container">
+            <h1>
+                "Staying at this hotel was an unforgettable experience! The staff went above and beyond to ensure our
+                comfort, and the luxurious amenities made us feel pampered. From the exquisite dining options to the
+                tranquil spa, every detail was perfect. I can't wait to return"
+            </h1>
+            <div class="profile">
+                <img src="image-51x51 (1)-photoaidcom-cropped.jpg">
+                <h4>Maller Jame</h4>
+            </div>
+        </div>
+    </section>
+    <section id="about-us">
+        <div class="container">
+            <div class="about-content">
+                <h4>ABOUT US</h4>
+                <h1>
+                    Welcome to Royal Palace Hotel, where luxury meets unparalleled hospitality.
+                </h1>
+                <p>
+                    Our dedicated team is committed to ensuring your stay is seamless and enjoyable, from personalized
+                    check-in to tailored recommendations for exploring the local area. Whether you're here for business,
+                    a romantic getaway, or a family vacation, we offer the perfect blend of relaxation and adventure.
+                </p>
+                <button class="btn btn-primary">Let's Talk Now</button>
+            </div>
+            <div class="about-img">
+                <img src="image-404x491.jpg">
+            </div>
+        </div>
+
+    </section>
+    <section id="questions">
+        <div class="container">
+            <h1>Questions?</h1>
+            <p>
+                Any Queries about the hotel!!
+            </p>
+            <button class="btn btn-primary">Let's Talk Now</button>
+        </div>
+    </section>
+    <footer>
+        <div class="cotainer">
+            <ul class="footer-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <img src="rovenlogos_royalpalace_light-removebg-preview.png" alt="" class="footerlogo">
+
+        </div>
+    </footer>
+
+</body>
+
+</html>
